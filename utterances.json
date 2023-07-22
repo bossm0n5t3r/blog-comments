@@ -1,3 +1,6 @@
 {
-  "origins": ["https://bossm0n5t3r.github.io"]
+  "origins": [
+    "https://zhoon.vercel.app",
+    "https://blog-bossm0n5t3r.vercel.app"
+  ]
 }
