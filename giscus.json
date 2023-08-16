@@ -2,5 +2,6 @@
   "origins": [
     "https://zhoon.vercel.app",
     "https://blog-bossm0n5t3r.vercel.app"
-  ]
+  ],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
