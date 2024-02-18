@@ -1,7 +1,4 @@
 {
-  "origins": [
-    "https://zhoon.vercel.app",
-    "https://blog-bossm0n5t3r.vercel.app"
-  ],
+  "origins": ["https://bossm0n5t3r.github.io"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
